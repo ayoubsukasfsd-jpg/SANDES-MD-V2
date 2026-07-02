@@ -18,7 +18,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "cQMDGKoA#ClzthGbTqa0YJQPy390FotH_IjhqbDuEhE837dLzWYw",
+SESSION_ID: process.env.SESSION_ID || "sItEUByQ#FKgBUIoTWiWiLgZmHbr-6-pNCMvF3jQO_O2rYVoOOQ0",
 ALIVE_IMG : process.env.ALIVE_IMG || "https://upld.zone.id/uploads/d4i0x5iq/sandes-md-v2.webp",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", 
 };
